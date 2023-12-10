@@ -1,7 +1,7 @@
 # Awesome Auto-Installer for PufferPanel and Ngrok on Linux x86 VPS
 
 <div align="center">
-  <img src="[https://your-cool-logo-url.com](https://cdn.discordapp.com/avatars/912228642736730123/1246e2e7101d55704de62813e7f6c109.png?size=256)" alt="Foxytouxxx">
+  <img src="[https://cdn.discordapp.com/avatars/912228642736730123/1246e2e7101d55704de62813e7f6c109.png?size=256](https://cdn.discordapp.com/avatars/912228642736730123/1246e2e7101d55704de62813e7f6c109.png?size=256)" alt="Foxytouxxx">
 </div>
 
 ## Overview
