@@ -1,8 +1,5 @@
 # Awesome Auto-Installer for PufferPanel and Ngrok on Linux x86 VPS
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/143593532?v=4" alt="Foxytouxxx">
-</div>
 
 ## Overview
 
